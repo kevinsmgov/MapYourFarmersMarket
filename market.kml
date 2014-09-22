@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="market" id="market">
+	<SimpleField name="entityhandle" type="string"></SimpleField>
+</Schema>
+<Folder><name>market</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49898875155588,34.015830653466097 -118.49896512852274,34.015849839549013 -118.49898816875873,34.015869510971491 -118.49901179182514,34.015850324883871 -118.49898875155588,34.015830653466097</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49896512852274,34.015849839549013 -118.49894150544593,34.015869025654972 -118.49896454568146,34.015888697054486 -118.49898816875873,34.015869510971491 -118.49896512852274,34.015849839549013</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49894150544593,34.015869025654972 -118.49891788235813,34.01588821172885 -118.49894092259356,34.015907883160388 -118.49896454568146,34.015888697054486 -118.49894150544593,34.015869025654972</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">4A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49891788235813,34.01588821172885 -118.49889425925952,34.015907397798138 -118.49891729952766,34.015927069234053 -118.49894092259356,34.015907883160388 -118.49891788235813,34.01588821172885</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">4B</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49889425925952,34.015907397798138 -118.49887063615022,34.015926583890277 -118.49889367641794,34.015946255303248 -118.49891729952766,34.015927069234053 -118.49889425925952,34.015907397798138</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">4C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49887063615022,34.015926583890277 -118.49884701306293,34.015945769950207 -118.49887005329754,34.015965441395345 -118.49889367641794,34.015946255303248 -118.49887063615022,34.015926583890277</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">4D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49884701306293,34.015945769950207 -118.49882338993181,34.015964956005689 -118.49884643016615,34.015984627455325 -118.49887005329754,34.015965441395345 -118.49884701306293,34.015945769950207</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">4E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49882338993181,34.015964956005689 -118.49879976679003,34.015984142084058 -118.4988228070241,34.016003813538205 -118.49884643016615,34.015984627455325 -118.49882338993181,34.015964956005689</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">4F</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49879976679003,34.015984142084058 -118.49877614363723,34.016003328130282 -118.49879918390404,34.016022999588863 -118.4988228070241,34.016003813538205 -118.49879976679003,34.015984142084058</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.4985587568405,34.016182663055794 -118.49853513357662,34.016201849082577 -118.49855817384142,34.016221520587393 -118.49858179707257,34.016202334556176 -118.4985587568405,34.016182663055794</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49858238009371,34.016163477051862 -118.4985587568405,34.016182663055794 -118.49858179707257,34.016202334556176 -118.49860542032606,34.016183148547725 -118.49858238009371,34.016163477051862</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49860600333611,34.016144291043318 -118.49858238009371,34.016163477051862 -118.49860542032606,34.016183148547725 -118.49862904356857,34.016163962507186 -118.49860600333611,34.016144291043318</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49862962653452,34.016125105002864 -118.49860600333611,34.016144291043318 -118.49862904356857,34.016163962507186 -118.49865266680041,34.016144776489526 -118.49862962653452,34.016125105002864</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.4987052741471,34.016060886268846 -118.49868165095116,34.016080072324186 -118.49870469118372,34.016099743773552 -118.49872831438009,34.016080557741148 -118.4987052741471,34.016060886268846</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49872889733236,34.016041700236379 -118.4987052741471,34.016060886268846 -118.49872831438009,34.016080557741148 -118.49875193756561,34.016061371704161 -118.49872889733236,34.016041700236379</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49875252047363,34.016022514171979 -118.49872889733236,34.016041700236379 -118.49875193756561,34.016061371704161 -118.49877556074016,34.016042185635065 -118.49875252047363,34.016022514171979</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49877614363723,34.016003328130282 -118.49875252047363,34.016022514171979 -118.49877556074016,34.016042185635065 -118.49879918390404,34.016022999588863 -118.49877614363723,34.016003328130282</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">5A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49831818012555,34.01637758323362 -118.4982945567515,34.016396769213557 -118.49831759698026,34.016416440737153 -118.49834122035475,34.016397254780166 -118.49831818012555,34.01637758323362</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">5B</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49834180348891,34.016358397276527 -118.49831818012555,34.01637758323362 -118.49834122035475,34.016397254780166 -118.49836484371839,34.016378068818547 -118.49834180348891,34.016358397276527</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">5C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.4983654268413,34.016339211287388 -118.49834180348891,34.016358397276527 -118.49836484371839,34.016378068818547 -118.49838846707104,34.016358882824875 -118.4983654268413,34.016339211287388</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">5D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49838905015002,34.016320025321249 -118.4983654268413,34.016339211287388 -118.49838846707104,34.016358882824875 -118.49841209041303,34.016339696854082 -118.49838905015002,34.016320025321249</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">5E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49841267348091,34.016300839350379 -118.49838905015002,34.016320025321249 -118.49841209041303,34.016339696854082 -118.49843571371103,34.016320510851337 -118.49841267348091,34.016300839350379</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">5F</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49843629680082,34.01628165334742 -118.49841267348091,34.016300839350379 -118.49843571371103,34.016320510851337 -118.49845933703136,34.016301324871321 -118.49843629680082,34.01628165334742</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49851151030173,34.016221035077322 -118.49848788704918,34.016240221094769 -118.49851092728031,34.016259892581296 -118.49853455056626,34.01624070658665 -118.49851151030173,34.016221035077322</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49853513357662,34.016201849082577 -118.49851151030173,34.016221035077322 -118.49853455056626,34.01624070658665 -118.49855817384142,34.016221520587393 -118.49853513357662,34.016201849082577</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49815281631216,34.016511884886519 -118.49812919289514,34.016531070806636 -118.49815223312217,34.016550742389441 -118.49817585657244,34.016531556464642 -118.49815281631216,34.016511884886519</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">68</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49817643975118,34.016492698934179 -118.49815281631216,34.016511884886519 -118.49817585657244,34.016531556464642 -118.49819947997877,34.016512370507911 -118.49817643975118,34.016492698934179</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">69</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49820006317954,34.01647351300474 -118.49817643975118,34.016492698934179 -118.49819947997877,34.016512370507911 -118.4982231034074,34.016493184573939 -118.49820006317954,34.01647351300474</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">6A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49822368659706,34.016454327070676 -118.49820006317954,34.01647351300474 -118.4982231034074,34.016493184573939 -118.498246726825,34.016473998607871 -118.49822368659706,34.016454327070676</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">6B</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49824731000359,34.016435141104544 -118.49822368659706,34.016454327070676 -118.498246726825,34.016473998607871 -118.49827035023198,34.016454812664684 -118.49824731000359,34.016435141104544</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">6C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49827093336646,34.016415955161399 -118.49824731000359,34.016435141104544 -118.49827035023198,34.016454812664684 -118.49829397362812,34.016435626716898 -118.49827093336646,34.016415955161399</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">6D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.4982945567515,34.016396769213557 -118.49827093336646,34.016415955161399 -118.49829397362812,34.016435626716898 -118.49831759698026,34.016416440737153 -118.4982945567515,34.016396769213557</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">6E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49784028119578,34.016763821851306 -118.49781665760301,34.016783007710693 -118.49783969782595,34.016802679353425 -118.49786332141879,34.016783493462043 -118.49784028119578,34.016763821851306</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">6F</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49786390477753,34.01674463595986 -118.49784028119578,34.016763821851306 -118.49786332141879,34.016783493462043 -118.49788694500101,34.016764307593533 -118.49786390477753,34.01674463595986</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49788752834863,34.016725450091272 -118.49786390477753,34.01674463595986 -118.49788694500101,34.016764307593533 -118.49791056857238,34.016745121720419 -118.49788752834863,34.016725450091272</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49791115187575,34.016706264190745 -118.49788752834863,34.016725450091272 -118.49791056857238,34.016745121720419 -118.49793419213276,34.016725935815231 -118.49791115187575,34.016706264190745</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49793477542519,34.016687078312962 -118.49791115187575,34.016706264190745 -118.49793419213276,34.016725935815231 -118.49795781564947,34.016706749933064 -118.49793477542519,34.016687078312962</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49795839896379,34.016667892430583 -118.49793477542519,34.016687078312962 -118.49795781564947,34.016706749933064 -118.49798143918818,34.016687564018667 -118.49795839896379,34.016667892430583</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.4979820224914,34.016648706516122 -118.49795839896379,34.016667892430583 -118.49798143918818,34.016687564018667 -118.49800506271625,34.016668378127143 -118.4979820224914,34.016648706516122</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49800564600837,34.016629520624541 -118.4979820224914,34.016648706516122 -118.49800506271625,34.016668378127143 -118.49802868623345,34.01664919223105 -118.49800564600837,34.016629520624541</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">76</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49802926948148,34.01661033472849 -118.49800564600837,34.016629520624541 -118.49802868623345,34.01664919223105 -118.49805230973968,34.016630006302847 -118.49802926948148,34.01661033472849</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49805289297662,34.016591148800217 -118.49802926948148,34.01661033472849 -118.49805230973968,34.016630006302847 -118.49807593320226,34.016610820397666 -118.49805289297662,34.016591148800217</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49760947438814,34.016953160107299 -118.49758585068922,34.016972345949206 -118.49760889090985,34.016992017608729 -118.49763251460922,34.016972831789801 -118.49760947438814,34.016953160107299</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">79</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49763309807643,34.016933974288293 -118.49760947438814,34.016953160107299 -118.49763251460922,34.016972831789801 -118.49765613829777,34.016953645966254 -118.49763309807643,34.016933974288293</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">7A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49765672175386,34.016914788464668 -118.49763309807643,34.016933974288293 -118.49765613829777,34.016953645966254 -118.49767976197532,34.016934460110633 -118.49765672175386,34.016914788464668</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">7E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49774578679292,34.016840565288533 -118.49772216315684,34.016859751129488 -118.49774520337868,34.016879422790367 -118.49776882701504,34.016860236944872 -118.49774578679292,34.016840565288533</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">7F</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49776941041816,34.016821379442952 -118.49774578679292,34.016840565288533 -118.49776882701504,34.016860236944872 -118.49779245064038,34.016841051067274 -118.49776941041816,34.016821379442952</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49779303399943,34.016802193565447 -118.49776941041816,34.016821379442952 -118.49779245064038,34.016841051067274 -118.49781607425508,34.016821865212592 -118.49779303399943,34.016802193565447</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49781665760301,34.016783007710693 -118.49779303399943,34.016802193565447 -118.49781607425508,34.016821865212592 -118.49783969782595,34.016802679353425 -118.49781665760301,34.016783007710693</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">82</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49734018986375,34.017168292217491 -118.4973165660422,34.017187477979455 -118.49733960625893,34.017207149718118 -118.49736323008075,34.017187963951628 -118.49734018986375,34.017168292217491</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49736381367447,34.01714910645093 -118.49734018986375,34.017168292217491 -118.49736323008075,34.017187963951628 -118.49738685389158,34.017168778153057 -118.49736381367447,34.01714910645093</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49738743747419,34.017129920652287 -118.49736381367447,34.01714910645093 -118.49738685389158,34.017168778153057 -118.49741047769173,34.017149592377365 -118.49738743747419,34.017129920652287</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49741106123025,34.017110734876653 -118.49738743747419,34.017129920652287 -118.49741047769173,34.017149592377365 -118.49743410148106,34.017130406597069 -118.49741106123025,34.017110734876653</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">86</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49743468500832,34.017091549068823 -118.49741106123025,34.017110734876653 -118.49743410148106,34.017130406597069 -118.4974577252264,34.017111220784841 -118.49743468500832,34.017091549068823</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49745830877571,34.017072363283852 -118.49743468500832,34.017091549068823 -118.4974577252264,34.017111220784841 -118.49748134899407,34.017092034995315 -118.49745830877571,34.017072363283852</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">88</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49748193253227,34.017053177494276 -118.49745830877571,34.017072363283852 -118.49748134899407,34.017092034995315 -118.4975049727509,34.01707284920122 -118.49748193253227,34.017053177494276</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49750555627786,34.017033991672619 -118.49748193253227,34.017053177494276 -118.4975049727509,34.01707284920122 -118.49752859649675,34.017053663375059 -118.49750555627786,34.017033991672619</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">8B</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49758585068922,34.016972345949206 -118.49756222697928,34.016991531759032 -118.49758526723281,34.017011203450423 -118.49760889090985,34.016992017608729 -118.49758585068922,34.016972345949206</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">8C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.4973165660422,34.017187477979455 -118.49729294221,34.017206663764284 -118.4973159824593,34.017226335479876 -118.49733960625893,34.017207149718118 -118.4973165660422,34.017187477979455</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">8D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49729294221,34.017206663764284 -118.49726931839977,34.017225849516912 -118.49729235861598,34.017245521264648 -118.4973159824593,34.017226335479876 -118.49729294221,34.017206663764284</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">8E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49726931839977,34.017225849516912 -118.49724569454574,34.017245035265063 -118.49726873476166,34.017264707017333 -118.49729235861598,34.017245521264648 -118.49726931839977,34.017225849516912</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">8F</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49724569454574,34.017245035265063 -118.49722207068105,34.017264221036079 -118.49724511089671,34.017283892792882 -118.49726873476166,34.017264707017333 -118.49724569454574,34.017245035265063</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">90</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49722207068105,34.017264221036079 -118.49719844680536,34.017283406775043 -118.49722148702074,34.017303078536365 -118.49724511089671,34.017283892792882 -118.49722207068105,34.017264221036079</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">91</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49719844680536,34.017283406775043 -118.49717482291899,34.017302592536879 -118.49719786316693,34.017322264275109 -118.49722148702074,34.017303078536365 -118.49719844680536,34.017283406775043</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">94</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49728546657619,34.017356368716307 -118.497261842689,34.01737555446779 -118.49728488297764,34.017395226216962 -118.49730850686493,34.017376040433483 -118.49728546657619,34.017356368716307</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49730909045236,34.017337182932778 -118.49728546657619,34.017356368716307 -118.49730850686493,34.017376040433483 -118.49733213070853,34.017356854673039 -118.49730909045236,34.017337182932778</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49733271431786,34.0173179971721 -118.49730909045236,34.017337182932778 -118.49733213070853,34.017356854673039 -118.49735575457431,34.017337668907828 -118.49733271431786,34.0173179971721</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">97</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49735633817238,34.017298811379348 -118.49733271431786,34.0173179971721 -118.49735575457431,34.017337668907828 -118.49737937842912,34.017318483110571 -118.49735633817238,34.017298811379348</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49737996198324,34.017279625609632 -118.49735633817238,34.017298811379348 -118.49737937842912,34.017318483110571 -118.49740300227323,34.017299297336152 -118.49737996198324,34.017279625609632</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">99</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49740358581626,34.017260439835155 -118.49737996198324,34.017279625609632 -118.49740300227323,34.017299297336152 -118.49742662610652,34.017280111557177 -118.49740358581626,34.017260439835155</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">9C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49759257605707,34.017106953391433 -118.4975689523107,34.01712613920273 -118.49759199256985,34.01714581089314 -118.49761561631651,34.017126625077339 -118.49759257605707,34.017106953391433</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">9D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.4975689523107,34.01712613920273 -118.49754532855364,34.017145325036878 -118.49756836881237,34.017164996704373 -118.49759199256985,34.01714581089314 -118.4975689523107,34.01712613920273</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">9E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49754532855364,34.017145325036878 -118.4975217047856,34.017164510838967 -118.49754474507722,34.017184182538308 -118.49756836881237,34.017164996704373 -118.49754532855364,34.017145325036878</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">9F</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.4975217047856,34.017164510838967 -118.49749808100673,34.017183696636422 -118.49752112129809,34.017203368340326 -118.49754474507722,34.017184182538308 -118.4975217047856,34.017164510838967</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">A0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49749808100673,34.017183696636422 -118.49747445725018,34.017202882456672 -118.49749749750809,34.017222554137732 -118.49752112129809,34.017203368340326 -118.49749808100673,34.017183696636422</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">A1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49747445725018,34.017202882456672 -118.49745083344965,34.017222068244934 -118.49747387370748,34.017241739958003 -118.49749749750809,34.017222554137732 -118.49747445725018,34.017202882456672</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">A2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49745083344965,34.017222068244934 -118.49742720963829,34.017241254028612 -118.49745024989582,34.017260925746243 -118.49747387370748,34.017241739958003 -118.49745083344965,34.017222068244934</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">A3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49742720963829,34.017241254028612 -118.49740358581626,34.017260439835155 -118.49742662610652,34.017280111557177 -118.49745024989582,34.017260925746243 -118.49742720963829,34.017241254028612</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">A4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49788056623447,34.016871545010851 -118.49785694262071,34.0168907309057 -118.49787998291561,34.016910402513268 -118.4979036065298,34.016891216641362 -118.49788056623447,34.016871545010851</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">A5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49785694262071,34.0168907309057 -118.49783331902896,34.016909916768341 -118.49785635929072,34.016929588408061 -118.49787998291561,34.016910402513268 -118.49785694262071,34.0168907309057</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">A6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49783331902896,34.016909916768341 -118.49780969539337,34.016929102626527 -118.49783273565488,34.016948774270773 -118.49785635929072,34.016929588408061 -118.49783331902896,34.016909916768341</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">AA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49774425396072,34.016984140009519 -118.49772063031678,34.017003325850212 -118.49774367057778,34.017022997511539 -118.49776729425486,34.017003811638709 -118.49774425396072,34.016984140009519</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">AB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49772063031678,34.017003325850212 -118.497697006629,34.01702251168642 -118.49772004688973,34.017042183352302 -118.49774367057778,34.017022997511539 -118.49772063031678,34.017003325850212</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">AC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.497697006629,34.01702251168642 -118.49767338293056,34.017041697545544 -118.49769642319085,34.01706136918844 -118.49772004688973,34.017042183352302 -118.497697006629,34.01702251168642</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">AD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49767338293056,34.017041697545544 -118.4976497592211,34.017060883372558 -118.49767279951429,34.017080555047343 -118.49769642319085,34.01706136918844 -118.49767338293056,34.017041697545544</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">AE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49811680171165,34.016679686001808 -118.49809317820602,34.016698871915217 -118.49811621850377,34.016718543504936 -118.49813984200949,34.01669935755951 -118.49811680171165,34.016679686001808</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">AF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49809317820602,34.016698871915217 -118.49806955472253,34.016718057823844 -118.49809259498701,34.016737729418274 -118.49811621850377,34.016718543504936 -118.49809317820602,34.016698871915217</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">B0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49806955472253,34.016718057823844 -118.49804593119541,34.016737243755529 -118.49806897145965,34.016756915354449 -118.49809259498701,34.016737729418274 -118.49806955472253,34.016718057823844</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">B1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49804593119541,34.016737243755529 -118.49802230765729,34.016756429655118 -118.49804534792125,34.016776101258586 -118.49806897145965,34.016756915354449 -118.49804593119541,34.016737243755529</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">B2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49802230765729,34.016756429655118 -118.49799868410837,34.016775615550102 -118.49802172440501,34.016795287157969 -118.49804534792125,34.016776101258586 -118.49802230765729,34.016756429655118</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">B3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49799868410837,34.016775615550102 -118.49797506054874,34.016794801467952 -118.49799810084514,34.016814473080373 -118.49802172440501,34.016795287157969 -118.49799868410837,34.016775615550102</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">B4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49797506054874,34.016794801467952 -118.49795143701114,34.016813987353608 -118.49797447727425,34.016833658970661 -118.49799810084514,34.016814473080373 -118.49797506054874,34.016794801467952</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">B5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49795143701114,34.016813987353608 -118.49792781342984,34.016833173262278 -118.49795085369254,34.016852844856402 -118.49797447727425,34.016833658970661 -118.49795143701114,34.016813987353608</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">B6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49792781342984,34.016833173262278 -118.49790418983758,34.016852359138881 -118.49792723010016,34.016872030764986 -118.49795085369254,34.016852844856402 -118.49792781342984,34.016833173262278</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">B7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49790418983758,34.016852359138881 -118.49788056623447,34.016871545010851 -118.4979036065298,34.016891216641362 -118.49792723010016,34.016872030764986 -118.49790418983758,34.016852359138881</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">B8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49835846559357,34.016485306258673 -118.49833484219819,34.016504492219141 -118.49835788249925,34.016524163762547 -118.4983815058949,34.016504977797538 -118.49835846559357,34.016485306258673</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">B9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49833484219819,34.016504492219141 -118.49831121882517,34.016523678202361 -118.49833425909276,34.01654334972293 -118.49835788249925,34.016524163762547 -118.49833484219819,34.016504492219141</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">BA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49831121882517,34.016523678202361 -118.49828759540812,34.016542864153635 -118.49831063567562,34.016562535706228 -118.49833425909276,34.01654334972293 -118.49831121882517,34.016523678202361</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">BB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49828759540812,34.016542864153635 -118.49826397198024,34.016562050100291 -118.49828701224747,34.016581721657417 -118.49831063567562,34.016562535706228 -118.49828759540812,34.016542864153635</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">BC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49826397198024,34.016562050100291 -118.49824034854171,34.016581236069847 -118.49826338884168,34.016600907631343 -118.49828701224747,34.016581721657417 -118.49826397198024,34.016562050100291</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">BD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49824034854171,34.016581236069847 -118.49821672509219,34.016600422007315 -118.49823976539187,34.016620093573351 -118.49826338884168,34.016600907631343 -118.49824034854171,34.016581236069847</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">C1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49814042520627,34.016660500056332 -118.49811680171165,34.016679686001808 -118.49813984200949,34.01669935755951 -118.49816346547158,34.016680171637134 -118.49814042520627,34.016660500056332</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">C2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49859904252433,34.016290385999362 -118.49857541923926,34.01630957203416 -118.49859845954305,34.016329243503911 -118.49862208282855,34.016310057492028 -118.49859904252433,34.016290385999362</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">C5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49852382902448,34.016351004324243 -118.49850020570507,34.016370190344418 -118.49852324597485,34.016389861828735 -118.49854686929469,34.016370675831531 -118.49852382902448,34.016351004324243</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">C6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49850020570507,34.016370190344418 -118.49847658237469,34.016389376332498 -118.49849962267734,34.01640904784869 -118.49852324597485,34.016389861828735 -118.49850020570507,34.016370190344418</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">C7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49847658237469,34.016389376332498 -118.49845295903346,34.016408562315974 -118.49847599933587,34.016428233836692 -118.49849962267734,34.01640904784869 -118.49847658237469,34.016389376332498</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">C8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49845295903346,34.016408562315974 -118.49842933571455,34.016427748322194 -118.49845237598369,34.016447419847573 -118.49847599933587,34.016428233836692 -118.49845295903346,34.016408562315974</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">C9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49842933571455,34.016427748322194 -118.49840571235167,34.016446934296454 -118.49842875262053,34.016466605826388 -118.49845237598369,34.016447419847573 -118.49842933571455,34.016427748322194</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">CA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49840571235167,34.016446934296454 -118.49838208897813,34.016466120293607 -118.49840512924654,34.016485791800591 -118.49842875262053,34.016466605826388 -118.49840571235167,34.016446934296454</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">CB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49838208897813,34.016466120293607 -118.49835846559357,34.016485306258673 -118.4983815058949,34.016504977797538 -118.49840512924654,34.016485791800591 -118.49838208897813,34.016466120293607</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">CC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49885873035113,34.016076743472532 -118.4988351071859,34.016095929557935 -118.49885814749203,34.016115601005332 -118.49888177065755,34.016096414915424 -118.49885873035113,34.016076743472532</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">CD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.4988351071859,34.016095929557935 -118.49881148404268,34.016115115611107 -118.49883452431555,34.016134787063194 -118.49885814749203,34.016115601005332 -118.4988351071859,34.016095929557935</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">CE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49881148404268,34.016115115611107 -118.49878786085577,34.016134301687302 -118.49881090112822,34.016153973116431 -118.49883452431555,34.016134787063194 -118.49881148404268,34.016115115611107</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">CF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49878786074807,34.016134301675699 -118.49876423755019,34.016153487719805 -118.49878727782252,34.016173159180944 -118.49881090102052,34.016153973104849 -118.49878786074807,34.016134301675699</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">D1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49871715875466,34.016194455838821 -118.49869353552374,34.016213641896663 -118.49871657582904,34.016233313371238 -118.49874019906019,34.016214127308885 -118.49871715875466,34.016194455838821</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">D2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49869353552374,34.016213641896663 -118.49866991231485,34.016232827922273 -118.49869295258686,34.016252499401496 -118.49871657582904,34.016233313371238 -118.49869353552374,34.016213641896663</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">D3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49866991231485,34.016232827922273 -118.49864628906211,34.016252013943387 -118.49866932933385,34.016271685427164 -118.49869295258686,34.016252499401496 -118.49866991231485,34.016232827922273</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">D4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49864628906211,34.016252013943387 -118.49862266579872,34.016271199987422 -118.49864570607021,34.016290871475725 -118.49866932933385,34.016271685427164 -118.49864628906211,34.016252013943387</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">D5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49862266579872,34.016271199987422 -118.49859904252433,34.016290385999362 -118.49862208282855,34.016310057492028 -118.49864570607021,34.016290871475725 -118.49862266579872,34.016271199987422</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">D6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49888235350569,34.016057557410015 -118.49885873035113,34.016076743472532 -118.49888177065755,34.016096414915424 -118.4989053937794,34.016077228848509 -118.49888235350569,34.016057557410015</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">D7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49890597664944,34.016038371342916 -118.49888235350569,34.016057557410015 -118.4989053937794,34.016077228848509 -118.4989290169234,34.016058042776876 -118.49890597664944,34.016038371342916</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">D8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49892959978217,34.016019185243721 -118.49890597664944,34.016038371342916 -118.4989290169234,34.016058042776876 -118.49895264005642,34.016038856673141 -118.49892959978217,34.016019185243721</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">D9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49895322287125,34.015999999167533 -118.49892959978217,34.016019185243721 -118.49895264005642,34.016038856673141 -118.49897626317876,34.016019670592321 -118.49895322287125,34.015999999167533</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">DA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49897684598251,34.015980813086635 -118.49895322287125,34.015999999167533 -118.49897626317876,34.016019670592321 -118.49899988629011,34.01600048447937 -118.49897684598251,34.015980813086635</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">DB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49900046908276,34.015961626973606 -118.49897684598251,34.015980813086635 -118.49899988629011,34.01600048447937 -118.4990235093578,34.015981298389455 -118.49900046908276,34.015961626973606</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">DC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49902409217236,34.015942440883499 -118.49900046908276,34.015961626973606 -118.4990235093578,34.015981298389455 -118.49904713244767,34.015962112294787 -118.49902409217236,34.015942440883499</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">DD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49904771525111,34.01592325478876 -118.49902409217236,34.015942440883499 -118.49904713244767,34.015962112294787 -118.49907075552653,34.015942926168066 -118.49904771525111,34.01592325478876</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#market">
+		<SimpleData name="entityhandle">DE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.49907133828589,34.015904068662124 -118.49904771525111,34.01592325478876 -118.49907075552653,34.015942926168066 -118.49909437859475,34.01592374006421 -118.49907133828589,34.015904068662124</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
